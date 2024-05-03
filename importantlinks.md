@@ -9,3 +9,4 @@
 - [netbox-kea-dhcp GitHub](https://github.com/francoismdj/netbox-kea-dhcp)
 - [NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support)](https://github.com/napalm-automation/napalm)
 - [pykeadhcp](https://pypi.org/project/pykeadhcp/)
+- [REST API Overview for Netbox](https://demo.netbox.dev/static/docs/rest-api/overview/)
