@@ -2,5 +2,5 @@
 
 ## Physical Topology 
 <!--START_SECTION:update_image-->
-![](PhysicalTopology.png)
+![](PhysicalTopography.drawio.svg)
 <!--END_SECTION:update_image-->
